@@ -1,6 +1,6 @@
 package com.vuongdo.websocket.service;
 
-import com.vuongdo.websocket.chatroom.ChatRoom;
+import com.vuongdo.websocket.dto.chatroom.ChatRoom;
 import com.vuongdo.websocket.repository.ChatRoomRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

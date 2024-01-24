@@ -1,7 +1,7 @@
 package com.vuongdo.websocket.controller;
 
 import com.vuongdo.websocket.service.UserService;
-import com.vuongdo.websocket.user.User;
+import com.vuongdo.websocket.dto.user.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.messaging.handler.annotation.MessageMapping;

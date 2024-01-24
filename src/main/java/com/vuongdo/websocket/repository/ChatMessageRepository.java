@@ -1,6 +1,6 @@
 package com.vuongdo.websocket.repository;
 
-import com.vuongdo.websocket.chat.ChatMessage;
+import com.vuongdo.websocket.dto.chat.ChatMessage;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

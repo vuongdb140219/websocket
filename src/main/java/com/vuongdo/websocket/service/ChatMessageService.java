@@ -1,6 +1,6 @@
 package com.vuongdo.websocket.service;
 
-import com.vuongdo.websocket.chat.ChatMessage;
+import com.vuongdo.websocket.dto.chat.ChatMessage;
 import com.vuongdo.websocket.repository.ChatMessageRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

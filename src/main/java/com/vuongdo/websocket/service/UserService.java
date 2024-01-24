@@ -1,8 +1,8 @@
 package com.vuongdo.websocket.service;
 
 import com.vuongdo.websocket.repository.UserRepository;
-import com.vuongdo.websocket.user.Status;
-import com.vuongdo.websocket.user.User;
+import com.vuongdo.websocket.dto.user.Status;
+import com.vuongdo.websocket.dto.user.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

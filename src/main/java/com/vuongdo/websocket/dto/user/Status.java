@@ -1,4 +1,4 @@
-package com.vuongdo.websocket.user;
+package com.vuongdo.websocket.dto.user;
 
 public enum Status {
 

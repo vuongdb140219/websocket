@@ -1,7 +1,7 @@
 package com.vuongdo.websocket.controller;
 
-import com.vuongdo.websocket.chat.ChatMessage;
-import com.vuongdo.websocket.chat.ChatNotification;
+import com.vuongdo.websocket.dto.chat.ChatMessage;
+import com.vuongdo.websocket.dto.chat.ChatNotification;
 import com.vuongdo.websocket.service.ChatMessageService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
