@@ -1,5 +1,7 @@
-package com.vuongdo.websocket.user;
+package com.vuongdo.websocket.repository;
 
+import com.vuongdo.websocket.user.Status;
+import com.vuongdo.websocket.user.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

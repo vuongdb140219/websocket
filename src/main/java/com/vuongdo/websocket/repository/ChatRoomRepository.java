@@ -1,5 +1,6 @@
-package com.vuongdo.websocket.chatroom;
+package com.vuongdo.websocket.repository;
 
+import com.vuongdo.websocket.chatroom.ChatRoom;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;
